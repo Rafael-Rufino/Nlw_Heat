@@ -3,7 +3,7 @@
     <img alt="Logo" title="#logo" width="300px" src="./.github/logo.svg">
     <br><br>
     <b>Envie e compartilhe suas mensagem</b><br>
-    <b>Tire as dúvidas da sua audiência em tempo-real sobre o evento DoWhile</b>  
+    <b>Tire suas dúvidas em tempo-real sobre o evento DoWhile 2021</b>  
     <br>
 </h3>
 
