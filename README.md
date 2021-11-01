@@ -49,6 +49,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Socket.Io](https://socket.io.google.com/docs)
 - [Express](https://express.google.com/docs)
 - [Json Web Token](https://jsonwentoken.google.com/docs)
+- [OAuth](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwicx6rdgvbzAhUGr5UCHa5MBAAQFnoECAMQAQ&url=https%3A%2F%2Fdocs.github.com%2Fpt%2Fgithub%2Fextending-github%2Fgit-automation-with-oauth-tokens&usg=AOvVaw3vqbz0oU-NearSv9F-8Nbd)
 
 ## :heavy_check_mark: :computer: Prototipo da Aplicação
 
@@ -82,7 +83,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  git clone https://github.com/Rafael-Rufino/LetMeask
+  git clone https://github.com/Rafael-Rufino/Nlw_Heat
 ```
 
 2. Executando a Aplicação:
